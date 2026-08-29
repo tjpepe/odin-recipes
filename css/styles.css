@@ -1,5 +1,10 @@
 /*styles.css*/
 
+
+* {
+    outline: 2px solid red;
+}
+
 div{
     color: black;
     background-color: rgb(255, 255, 255);
